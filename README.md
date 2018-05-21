@@ -1,2 +1,2 @@
 # hello-world
-first repository for testing purposes
+I am trying to get better at GitHub!
